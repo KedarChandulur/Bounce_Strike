@@ -1,7 +1,7 @@
 # Bounce_Strike
 Simple/Casual Bounce Game
 Left Click to Shoot/Bounce.
-Only demo scene is available.
+This game doesn't have multiple levels, its just a demo for bounce game in 2d(Unity C#).
 
 # In Game Screen Shots
 ![image](https://user-images.githubusercontent.com/47148900/149490554-945c61ab-3b0f-4562-bcb8-fa6300ba00a8.png)
